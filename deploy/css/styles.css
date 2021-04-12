@@ -370,7 +370,7 @@ textarea {
   grid-template-columns: auto 60% auto;
   grid-template-areas: ". shapes .";
   height: 100vh;
-  background-color: rgba(255, 255, 255, 0.685); }
+  background-color: white; }
   #shapes > div {
     grid-area: shapes; }
     #shapes > div #purple-circle {
